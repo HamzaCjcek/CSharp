@@ -1,0 +1,31 @@
+﻿@model List<MyBlog.Models.Tbl_Sosyalmedya>
+@{
+    ViewBag.Title = "SMedya";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<table class="table table-hover table-bordered">
+    <tr>
+        <td>Sosyal Medya İsmi:</td>
+        <td>Link:</td>
+        <td>Class Link:</td>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Sosyalmedyaismi</td>
+            <td>@item.link</td>
+
+
+
+            <td>
+                <a href="@item.ID" class="btn btn-success form-control">Güncelle</a>
+            </td>
+            <td>
+                <a href="/Admin/DeleteMedia/@item.ID" onclick="return confirm('Silmek İstediğinize Eminmisiniz ?');" class="btn btn-danger form-control">Kaldır</a>
+            </td>
+        </tr>
+    }
+</table>
+<a href="" class="btn btn-primary form-control">Yeni Sosyal Medya Ekle</a>

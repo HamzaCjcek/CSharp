@@ -1,0 +1,34 @@
+﻿
+@model List<MyBlog.Models.Tbl_Skills>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>Yetenek Adı :</th>
+        <th>Yetenek Yüzdesi :</th>
+        <th>Güncelle:</th>
+        <th>Sil :</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.SkillName </td>
+            <td>@item.Yüzdelik</td>
+            <td><a href="@item.ID" class="btn btn-success form-control">Güncelleme</a></td>
+            <td>
+                <a href="@item.ID" class="btn btn-danger form-control">Sil</a>
+            </td>
+
+        </tr>
+
+    }
+
+</table>
+<a href="" class="btn btn-primary form-control">Yeni Yetenek Ekle</a>
+
+
+

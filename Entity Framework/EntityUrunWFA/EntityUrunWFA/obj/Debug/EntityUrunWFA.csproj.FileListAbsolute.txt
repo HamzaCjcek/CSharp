@@ -1,0 +1,38 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.xml
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Form1.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.CopyComplete
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.AnaGiris.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Ürün.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.İstatik.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityUrunWFA.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.xml
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.AnaGiris.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Form1.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.Ürün.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.İstatik.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.csproj.CopyComplete
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\Entity Framework\EntityUrunWFA\EntityUrunWFA\obj\Debug\EntityUrunWFA.pdb

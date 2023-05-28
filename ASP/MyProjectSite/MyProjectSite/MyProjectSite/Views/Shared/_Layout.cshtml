@@ -1,0 +1,105 @@
+﻿<!doctype html>
+<html class="no-js" lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Minecraft Projects</title>
+    <meta name="description" content="">
+    <!---meta name="viewport" content="width=device-width, initial-scale=1"---->
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="../icon.png">
+
+    <!-- Place favicon.ico in the root directory -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,300i,400,500,600" rel="stylesheet">
+    <link rel="stylesheet" href="~/Template/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Template/icons/icomoon.css">
+    <link rel="stylesheet" href="~/Template/icons/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/Template/css/plugins.css">
+    <link rel="stylesheet" href="~/Template/css/main.css">
+    <link rel="stylesheet" href="~/Template/css/style.css">
+    <link rel="stylesheet" href="~/Template/dist/css/swiper.min.css">
+</head>
+<body>
+    <!-- Page Content START -->
+    <div class="page-content">
+        <!-- Main Nav START -->
+        <nav id="main-nav" class="main-nav fixed">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="nav-header d-flex justify-content-between align-items-center">
+                            <a href="~/Template/index.html" class="logo" title="LOGO">
+                                <img class="logo-img" src="~/Template/img/post.png" alt="LOGO">
+                                <img class="alt-logo-img" src="~/Template/img/logo-alt.png" alt="LOGO">
+                            </a>
+                        </div>
+                        <div class="nav-wrap">
+                            <ul id="nav" class="nav-wrap__list menu">
+                                <li class="current"><a href="/" title="Главная">Ev</a></li>
+                                <li><a href="/about.html" title="Проекте">Proje Hakkında</a></li>
+                                <li><a href="/donate.html" title="Донат"><span class="red-fox">Bağış</span></a></li>
+                                <li><a href="/contacts.html" title="Контакты">Kişiler</a></li>
+                                <div class="dropdown">
+                                    <span>
+                                        <div class="drop-ed"></div>
+                                    </span>
+                                    <div class="dropdown-content">
+                                        <span class="arrow_box"></span>
+                                        <ul class="drop-vape">
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                            <li><a href="#">Банлист</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </ul>
+                            <div class="riglt-floats-xs">
+                                <a href="#" class="btn-login"><span class="ic-sx21"></span>Kayıt Olmak</a>
+                                <a href="~/Template/how-start.html" class="btn-startgames"><span class="ic-sx22"></span>Oynamaya Başla</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- Main Nav END -->
+    </div>
+    @RenderBody();
+    <!-- Page Content END -->
+    <script src="/dist/js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            spaceBetween: 30,
+            hashNavigation: {
+                watchState: true,
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
+    <script src="~/Template/js/jquery.min.js"></script>
+    <script src="~/Template/js/circle-progress.js"></script>
+    <script src="~/Template/js/examples.js"></script>
+    <script src="~/Template/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="~/Template/js/vendor/jquery-3.2.1.min.js"></script>
+    <script src="~/Template/js/plugins.js"></script>
+    <script src="~/Template/js/main.js"></script>
+</body>
+</html>

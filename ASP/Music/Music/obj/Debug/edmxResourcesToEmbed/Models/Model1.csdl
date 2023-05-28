@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAd" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Muzikler" Relationship="MusicModel.FK_Muzikler_Kategoriler" FromRole="Kategoriler" ToRole="Muzikler" />
+  </EntityType>
+  <EntityContainer Name="MusicEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" />
+    <EntitySet Name="Muzikler" EntityType="MusicModel.Muzikler" />
+    <AssociationSet Name="FK_Muzikler_Kategoriler" Association="MusicModel.FK_Muzikler_Kategoriler">
+      <End EntitySet="Kategoriler" Role="Kategoriler" />
+      <End EntitySet="Muzikler" Role="Muzikler" />
+    </AssociationSet>
+    <EntitySet Name="Hakkımızda" EntityType="MusicModel.Hakkımızda" />
+    <EntitySet Name="Admin" EntityType="MusicModel.Admin" />
+  </EntityContainer>
+  <EntityType Name="Muzikler">
+    <Key>
+      <PropertyRef Name="MuzikİD" />
+    </Key>
+    <Property Name="MuzikİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriID" Type="Int32" Nullable="false" />
+    <Property Name="Muzikİsmi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sanatçı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cıkıs_Yılı" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Sözleri" Type="String" Nullable="false" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="İmage" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Kategoriler" Relationship="MusicModel.FK_Muzikler_Kategoriler" FromRole="Muzikler" ToRole="Kategoriler" />
+  </EntityType>
+  <Association Name="FK_Muzikler_Kategoriler">
+    <End Type="MusicModel.Kategoriler" Multiplicity="1" Role="Kategoriler" />
+    <End Type="MusicModel.Muzikler" Multiplicity="*" Role="Muzikler" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="İd" />
+      </Principal>
+      <Dependent Role="Muzikler">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Hakkımızda">
+    <Key>
+      <PropertyRef Name="Hakkımdaİd" />
+    </Key>
+    <Property Name="Hakkımdaİd" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarih" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Baslik" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Aciklama" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdminAdı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AdminSoyad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AdminMail" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AdminSifre" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GymModelStoreContainer" CdmEntityContainer="GymEntities">
+    <EntitySetMapping Name="Kategoriler">
+      <EntityTypeMapping TypeName="GymModel.Kategoriler">
+        <MappingFragment StoreEntitySet="Kategoriler">
+          <ScalarProperty Name="İd" ColumnName="İd" />
+          <ScalarProperty Name="İmage" ColumnName="İmage" />
+          <ScalarProperty Name="Hİsmi" ColumnName="Hİsmi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="GymModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="AdminMail" ColumnName="AdminMail" />
+          <ScalarProperty Name="AdminSifre" ColumnName="AdminSifre" />
+          <ScalarProperty Name="AdminSoyad" ColumnName="AdminSoyad" />
+          <ScalarProperty Name="AdminAdı" ColumnName="AdminAdı" />
+          <ScalarProperty Name="İd" ColumnName="İd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

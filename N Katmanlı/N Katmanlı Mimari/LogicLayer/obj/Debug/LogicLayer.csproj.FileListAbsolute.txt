@@ -1,0 +1,11 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.pdb

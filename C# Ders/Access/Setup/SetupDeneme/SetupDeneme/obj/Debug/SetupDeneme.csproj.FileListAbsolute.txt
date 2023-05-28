@@ -1,0 +1,13 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\bin\Debug\SetupDeneme.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\bin\Debug\SetupDeneme.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\bin\Debug\SetupDeneme.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.Form1.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\bin\Debug\XanderUI.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Setup\SetupDeneme\SetupDeneme\obj\Debug\SetupDeneme.csproj.CopyComplete

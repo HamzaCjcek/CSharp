@@ -1,0 +1,12 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\bin\Debug\Database1.mdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\bin\Debug\Access.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\bin\Debug\Access.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\bin\Debug\Access.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.Form1.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C# Form\Access\Access2\Access\Access\obj\Debug\Access.pdb

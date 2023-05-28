@@ -1,0 +1,9 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\bin\Debug\Ders17.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\bin\Debug\Ders17.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\bin\Debug\Ders17.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders17 Metotlar(Geriye Değer Döndüren)\Ders17\Ders17\obj\Debug\Ders17.pdb

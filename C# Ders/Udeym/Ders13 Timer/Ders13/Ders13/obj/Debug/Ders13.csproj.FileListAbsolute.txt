@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\bin\Debug\Ders13.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\bin\Debug\Ders13.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\bin\Debug\Ders13.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders13 Timer\Ders13\Ders13\obj\Debug\Ders13.pdb

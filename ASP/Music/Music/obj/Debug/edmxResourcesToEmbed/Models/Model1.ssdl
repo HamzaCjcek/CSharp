@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdminAdı" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AdminSoyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AdminMail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AdminSifre" Type="nvarchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hakkımızda">
+    <Key>
+      <PropertyRef Name="Hakkımdaİd" />
+    </Key>
+    <Property Name="Hakkımdaİd" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tarih" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Baslik" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Aciklama" Type="varchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAd" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Muzikler">
+    <Key>
+      <PropertyRef Name="MuzikİD" />
+    </Key>
+    <Property Name="MuzikİD" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+    <Property Name="Muzikİsmi" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sanatçı" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cıkıs_Yılı" Type="date" Nullable="false" />
+    <Property Name="Sözleri" Type="varchar" MaxLength="1000" Nullable="false" />
+    <Property Name="İmage" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Muzikler_Kategoriler">
+    <End Role="Kategoriler" Type="Self.Kategoriler" Multiplicity="1" />
+    <End Role="Muzikler" Type="Self.Muzikler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="İd" />
+      </Principal>
+      <Dependent Role="Muzikler">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MusicModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hakkımızda" EntityType="Self.Hakkımızda" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Muzikler" EntityType="Self.Muzikler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Muzikler_Kategoriler" Association="Self.FK_Muzikler_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Muzikler" EntitySet="Muzikler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

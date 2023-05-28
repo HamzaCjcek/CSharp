@@ -1,0 +1,15 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\bin\Debug\Car.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\bin\Debug\Car.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\bin\Debug\Car.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.AnaSayfa.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.MusteriEkleme.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.MusteriListeleme.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.AracKayit.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\C#\Car Otomasyon\Car\Car\obj\Debug\Car.AracListele.resources

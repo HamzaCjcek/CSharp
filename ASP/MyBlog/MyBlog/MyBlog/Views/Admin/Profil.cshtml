@@ -1,0 +1,31 @@
+﻿@model List<MyBlog.Models.Tbl_Profil>
+@{
+    ViewBag.Title = "Profil";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+
+
+<table class="table table-hover table-bordered">
+    <tr>
+        <td>Profil Adı:</td>
+        <td>Profil Soyad:</td>
+        <td>Profil Yas:</td>
+        <td>Resim :</td>
+        <td>Ünvan:</td>
+        <td>Acıklama:</td>
+        <td>Güncelle:</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.İsim</td>
+            <td>@item.Soyisim</td>
+            <td>@item.Yas</td>
+            <td><img src="/img/@item.ProfilResmi" width="60" height="50" /></td>
+            <td>@item.Lakap</td>
+            <td>@item.Acıklama</td>
+            <td><a href="@item.ID" class="btn btn-success form-control">Güncelle</a></td>
+        </tr>
+    }
+</table>

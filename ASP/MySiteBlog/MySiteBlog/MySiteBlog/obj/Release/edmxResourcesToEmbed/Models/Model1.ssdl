@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyProfileModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tbl_Profil">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ProfilResmi" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="İsim" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Soyisim" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Acıklama" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Yas" Type="int" />
+    <Property Name="Lakap" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Skills">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="SkillName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Yüzdelik" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tbl_Sosyalmedya">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Sosyalmedyaismi" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="link" Type="nvarchar" MaxLength="350" Nullable="false" />
+    <Property Name="Class_Link" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="MyProfileModelStoreContainer">
+    <EntitySet Name="Tbl_Profil" EntityType="Self.Tbl_Profil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Skills" EntityType="Self.Tbl_Skills" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Sosyalmedya" EntityType="Self.Tbl_Sosyalmedya" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

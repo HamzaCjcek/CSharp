@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\bin\Debug\Ders5.exe.config
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\bin\Debug\Ders5.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\bin\Debug\Ders5.pdb
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders5 Combobox\Ders5\Ders5\obj\Debug\Ders5.pdb

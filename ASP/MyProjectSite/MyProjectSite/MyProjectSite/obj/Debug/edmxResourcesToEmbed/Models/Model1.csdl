@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GameModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Oyunlar">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Başlik" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Açıklama" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Resim" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="PopülerOyun">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="Int32" Nullable="false" />
+    <Property Name="Resim" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Baslik" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Açıklama" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Sunucu">
+    <Key>
+      <PropertyRef Name="İd" />
+    </Key>
+    <Property Name="İd" Type="Int32" Nullable="false" />
+    <Property Name="Sunucu_İsmi" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Çevrimiçi_Kişi_Sayisi" Type="Int32" />
+    <Property Name="Genel_Çevrim_İçin" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="GameEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Oyunlar" EntityType="Self.Oyunlar" />
+    <EntitySet Name="PopülerOyun" EntityType="Self.PopülerOyun" />
+    <EntitySet Name="Sunucu" EntityType="Self.Sunucu" />
+    <EntitySet Name="sysdiagrams" EntityType="GameModel.sysdiagrams" />
+  </EntityContainer>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MusicModelStoreContainer" CdmEntityContainer="MusicEntities">
+    <EntitySetMapping Name="Kategoriler">
+      <EntityTypeMapping TypeName="MusicModel.Kategoriler">
+        <MappingFragment StoreEntitySet="Kategoriler">
+          <ScalarProperty Name="İd" ColumnName="İd" />
+          <ScalarProperty Name="KategoriAd" ColumnName="KategoriAd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Muzikler">
+      <EntityTypeMapping TypeName="MusicModel.Muzikler">
+        <MappingFragment StoreEntitySet="Muzikler">
+          <ScalarProperty Name="İmage" ColumnName="İmage" />
+          <ScalarProperty Name="Sözleri" ColumnName="Sözleri" />
+          <ScalarProperty Name="Cıkıs_Yılı" ColumnName="Cıkıs_Yılı" />
+          <ScalarProperty Name="Sanatçı" ColumnName="Sanatçı" />
+          <ScalarProperty Name="Muzikİsmi" ColumnName="Muzikİsmi" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="MuzikİD" ColumnName="MuzikİD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hakkımızda">
+      <EntityTypeMapping TypeName="MusicModel.Hakkımızda">
+        <MappingFragment StoreEntitySet="Hakkımızda">
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="Baslik" ColumnName="Baslik" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Hakkımdaİd" ColumnName="Hakkımdaİd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="MusicModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="AdminSifre" ColumnName="AdminSifre" />
+          <ScalarProperty Name="AdminMail" ColumnName="AdminMail" />
+          <ScalarProperty Name="AdminSoyad" ColumnName="AdminSoyad" />
+          <ScalarProperty Name="AdminAdı" ColumnName="AdminAdı" />
+          <ScalarProperty Name="İd" ColumnName="İd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

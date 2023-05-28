@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\bin\Debug\Ders6.exe.config
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\bin\Debug\Ders6.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\bin\Debug\Ders6.pdb
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders6 Random\Ders6\Ders6\obj\Debug\Ders6.pdb

@@ -1,0 +1,100 @@
+﻿@model MyProjectSite.Models.ViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Home Section START -->
+<section id="home-sec" class="main-banner parallax">
+    <div class="bg-lefts"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <!-- Swiper -->
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        @foreach (var item in Model.popülergame)
+                        {
+                            <div class="swiper-slide" data-hash="slide1">
+                                <div class="col-md-6">
+                                    <span class="img-ste1"> <img class="" style="margin-top: 60px; max-width: 200px; max-height: 200px;" src=@item.Resim /></span>
+                                </div>
+                                <div class="col-md-6">
+                                    <h3 class="name-intro">@item.Baslik</h3>
+                                    <span class="hr-intro"></span>
+                                    <p class="docopation-intro">
+                                   
+                                        @item.Açıklama
+                                    </p>
+                                    <a href="#" class="btn-drop"><span class="ic-sx22"></span> Daha</a>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                    <!-- Add Arrows -->
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <a href="/how-start.html" class="block-s1">
+                    <p class="how-to-games">Oyuna Nasıl Başlanır</p>
+                    <p class="desctops">Bu konu,projemizde oyuna nasıl başlacağımızı anlatır</p>
+                </a>
+                <a href="#" class="block-s1 p2">
+                    <p class="how-to-games">Moderatör Ol</p>
+                    <p class="desctops">Bu bölümde 900 Tl Moderatör satın alabilirsiniz .</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Home Section END -->
+<div class="container">
+    <div class="row">
+
+
+        @foreach (var item in Model.oyunlar)
+        {
+            <div class="col-lg-9 col-md-9">
+                <div class="news-link">
+                    <img class="poster" src=@item.Resim />
+                    <span class="new-news">YENİ</span>
+                    <h3 class="news-log">@item.Başlik</h3>
+                    <p class="description">
+                        @item.Açıklama
+                    </p>
+                    <a href="#" class="btn-view"><span class="ic-sx24"></span>Daha</a>
+                    <span class="time-data">@item.Tarih</span>
+                </div>
+            </div>
+        }
+
+    <div class="col-lg-3 col-md-3">
+        @foreach (var item in Model.sunucu)
+        {
+            <div class="right-block">
+                <div class="n-m">Sunucu İzleme</div>
+                <div class="server online">
+                    <div class="second circle">
+                        <strong></strong>
+                    </div>
+                    <div class="server_name"><a href="#">@item.Sunucu_İsmi</a></div>
+                    <div class="server_players">
+                        Çevrimiçi: @item.Çevrimiçi_Kişi_Sayisi/100
+                    </div>
+                </div>
+                <p class="tdx-strom"><span class="online-o"></span>Genel çevrimiçi: @item.Genel_Çevrim_İçin</p>
+            </div>
+        }
+        <div class="right-block vk">
+            <div class="n-m">Sunucu İzleme</div>
+            <div class="widget-vk">
+                WIDGET VK
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+@{Html.RenderPartial("Footer");}

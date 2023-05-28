@@ -1,0 +1,18 @@
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\N Katmanlı Mimari.exe.config
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\N Katmanlı Mimari.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\N Katmanlı Mimari.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N_Katmanlı_Mimari.Form1.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N_Katmanlı_Mimari.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.exe
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\DataAccessLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\EntityLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\LogicLayer.dll
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\EntityLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\bin\Debug\LogicLayer.pdb
+C:\Users\HamzaCicek\Desktop\Klasörler\İlk Hali\C#\N Katmanlı\N Katmanlı Mimari\N Katmanlı Mimari\obj\Debug\N Katmanlı Mimari.csproj.CopyComplete

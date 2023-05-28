@@ -1,0 +1,60 @@
+﻿@model MySiteBlog.Models.ViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>Yetenek Adı :</th>
+        <th>Yetenek Yüzdesi :</th>
+        <th>Güncelle:</th>
+        <th>Sil :</th>
+    </tr>
+    @foreach (var item in Model.skills)
+    {
+        <tr>
+            <td>@item.SkillName </td>
+            <td>@item.Yüzdelik </td>
+            <td><a href="/Admin/UpdateSkill/@item.ID" class="btn btn-success form-control">Güncelleme</a></td>
+            <td>
+                <a href="/Admin/DeleteSkills/@item.ID" class="btn btn-danger form-control" onclick="return confirm('Silmek İstediğinize Eminmisiniz ?');">Sil</a>
+            </td>
+
+        </tr>
+
+    }
+
+</table>
+<a href="/Admin/AddSkill" class="btn btn-primary form-control">Yeni Yetenek Ekle</a>
+<br />
+<br />
+<br />
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>İsim :</th>
+        <th>Soyisim :</th>
+        <th>Güncelle:</th>  
+        <th>Sil :</th>
+    </tr>
+    @foreach (var item in Model.profil)
+    {
+        <tr>
+            <td>@item.İsim </td>
+            <td>@item.Soyisim </td>
+            <td><a href="/Admin/UpdateProfil/@item.ID" class="btn btn-success form-control">Güncelleme</a></td>
+            <td>
+                <a href="/Admin/DeleteProfil/@item.ID" class="btn btn-danger form-control" onclick="return confirm('Silmek İstediğinize Eminmisiniz ?');">Sil</a>
+            </td>
+
+        </tr>
+
+    }
+
+</table>
+<a href="/Admin/AddProfil" class="btn btn-primary form-control">Yeni Profil Ekle</a>
+
+
+
+

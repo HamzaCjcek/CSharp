@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\bin\Debug\Ders12.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\bin\Debug\Ders12.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\bin\Debug\Ders12.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders12\Ders12\Ders12\obj\Debug\Ders12.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\bin\Debug\Ders8.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\bin\Debug\Ders8.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\bin\Debug\Ders8.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders8\Ders8\Ders8\obj\Debug\Ders8.pdb

@@ -1,0 +1,11 @@
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\KimMilyonerOlmakİster.csproj.AssemblyReference.cache
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\KimMilyonerOlmakİster.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AnaSayfa.resources
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\KimMilyonerOlmakİster.csproj.GenerateResource.cache
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\KimMilyonerOlmakİster.csproj.CoreCompileInputs.cache
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\HamzaCicek\Desktop\C#\Yeni klasör\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

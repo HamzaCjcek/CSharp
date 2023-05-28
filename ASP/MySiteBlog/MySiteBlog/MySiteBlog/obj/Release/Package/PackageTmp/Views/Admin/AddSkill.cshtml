@@ -1,0 +1,29 @@
+﻿@model MySiteBlog.Models.Tbl_Skills
+
+@{
+    ViewBag.Title = "AddSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@using (Html.BeginForm("AddSkill", "Admin", FormMethod.Post, new { @class = "Form" }))
+{
+
+    <div>
+
+        <label>Yetenek İsmi</label><br />
+        @Html.TextBoxFor(x => x.SkillName, new { @class = " form-control" })
+    </div>
+    <br />
+    <div>
+        <label>Yetenek Yüzdesi</label><br />
+        @Html.TextBoxFor(x => x.Yüzdelik, new { @class = "form-control" })
+    </div>
+    <br />
+    <br />
+    <button class="btn btn-success form-control">Ekle</button>
+}
+<br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

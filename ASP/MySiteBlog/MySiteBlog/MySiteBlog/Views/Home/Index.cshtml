@@ -1,0 +1,55 @@
+﻿@model MySiteBlog.Models.ViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="vg-page page-about" id="about">
+    <div class="container py-5">
+        <div class="row">
+            @foreach (var item in Model.profil)
+            {
+                <div class="col-lg-4 py-3">
+                    <div class="img-place wow fadeInUp">
+                        <img src="~/İmg/@item.ProfilResmi" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 offset-lg-1 wow fadeInRight">
+                    <h1 class="fw-light">Türkiyede Hayatta Kalmaya Çalışan Biri</h1>
+                    <h5 class="fg-theme mb-3">@item.Lakap</h5>
+                    <ul class="theme-list">
+                        <li><b>İsim</b> @item.İsim</li>
+                        <li><b>Soyisim</b> @item.Soyisim</li>
+                        <li><b>Yaş</b> @item.Yas</li>
+                        <li><b>Alan:</b> @item.Acıklama</li>
+                    </ul>
+                    <button class="btn btn-theme-outline">CV İndir</button>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>
+<div class="container py-5">
+    <h1 class="text-center fw-normal wow fadeIn">Yetenekler</h1>
+    <div class="row py-3">
+        <div class="col-md-6">
+            <div class="px-lg-3">
+                <h4 class="wow fadeInUp">Detaylar</h4>
+                @foreach (var item in Model.skills)
+                {
+                    <div class="progress-wrapper wow fadeInUp">
+                        <span class="caption">@item.SkillName</span>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" style="width: @item.Yüzdelik%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">@item.Yüzdelik%</div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@{Html.RenderPartial("footer");}
+

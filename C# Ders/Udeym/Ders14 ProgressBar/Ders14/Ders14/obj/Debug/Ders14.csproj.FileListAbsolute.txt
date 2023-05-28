@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\bin\Debug\Ders14.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\bin\Debug\Ders14.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\bin\Debug\Ders14.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders14 ProgressBar\Ders14\Ders14\obj\Debug\Ders14.pdb

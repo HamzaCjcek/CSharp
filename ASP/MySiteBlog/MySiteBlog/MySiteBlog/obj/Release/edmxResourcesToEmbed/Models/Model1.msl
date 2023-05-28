@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyProfileModelStoreContainer" CdmEntityContainer="MyProfileEntities">
+    <EntitySetMapping Name="Tbl_Profil">
+      <EntityTypeMapping TypeName="MyProfileModel.Tbl_Profil">
+        <MappingFragment StoreEntitySet="Tbl_Profil">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ProfilResmi" ColumnName="ProfilResmi" />
+          <ScalarProperty Name="İsim" ColumnName="İsim" />
+          <ScalarProperty Name="Soyisim" ColumnName="Soyisim" />
+          <ScalarProperty Name="Acıklama" ColumnName="Acıklama" />
+          <ScalarProperty Name="Yas" ColumnName="Yas" />
+          <ScalarProperty Name="Lakap" ColumnName="Lakap" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Skills">
+      <EntityTypeMapping TypeName="MyProfileModel.Tbl_Skills">
+        <MappingFragment StoreEntitySet="Tbl_Skills">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SkillName" ColumnName="SkillName" />
+          <ScalarProperty Name="Yüzdelik" ColumnName="Yüzdelik" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Sosyalmedya">
+      <EntityTypeMapping TypeName="MyProfileModel.Tbl_Sosyalmedya">
+        <MappingFragment StoreEntitySet="Tbl_Sosyalmedya">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Sosyalmedyaismi" ColumnName="Sosyalmedyaismi" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="Class_Link" ColumnName="Class_Link" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

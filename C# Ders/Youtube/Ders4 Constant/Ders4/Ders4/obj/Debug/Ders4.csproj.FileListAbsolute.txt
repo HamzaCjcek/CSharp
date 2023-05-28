@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\bin\Debug\Ders4.exe.config
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\bin\Debug\Ders4.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\bin\Debug\Ders4.pdb
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.exe
+C:\Users\Hamza\Desktop\C# Form\Youtube\Ders4 Constant\Ders4\Ders4\obj\Debug\Ders4.pdb

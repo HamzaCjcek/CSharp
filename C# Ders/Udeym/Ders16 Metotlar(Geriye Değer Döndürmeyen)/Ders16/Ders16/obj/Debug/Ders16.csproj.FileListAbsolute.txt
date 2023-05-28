@@ -1,0 +1,10 @@
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\bin\Debug\Ders16.exe.config
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\bin\Debug\Ders16.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\bin\Debug\Ders16.pdb
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.Form1.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.Properties.Resources.resources
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.exe
+C:\Users\Hamza\Desktop\C# Form\Udeym\Ders16 Metotlar\Ders16\Ders16\obj\Debug\Ders16.pdb
